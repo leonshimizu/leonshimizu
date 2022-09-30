@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @leonshimizu
-- 👀 I’m interested in Full Stack Software Development
-- 🌱 I’m currently learning to become a Full Stack Software Developer
-- 💞️ I’m looking to collaborate on anything and everything, I just want to learn
-- 📫 How to reach me: email-Lmshimizu@gmail.com, LinkedIn-Leon Shimizu
+Hi all, I'm @leonshimizu and I'm a software engineer from the island of Guam 
 
 <!---
 leonshimizu/leonshimizu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
