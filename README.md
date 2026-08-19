@@ -21,6 +21,21 @@ infrastructure needed to run products in production.
   gives U.S. teams natural overnight coverage for deployments, maintenance,
   and incident follow-up
 
+## Enterprise modernization
+
+Before founding Shimizu Technology, I progressed from Junior Software Engineer
+to Software Engineer and Ruby Team Lead at **Spectrio** (Dec 2021-Jan 2025).
+Spectrio brought me back from Sep 2025-Feb 2026 for a six-month contract
+engagement leading critical modernization work across legacy Rails systems.
+
+During that return engagement, I upgraded applications through **Ruby 3.3.4**
+and **Rails 7.2.3**, modernized Webpack and CI/CD infrastructure, resolved
+Heroku and asset-pipeline compatibility issues, reduced one deployment slug by
+approximately **1.8 GB**, and coordinated database migration and production
+rollout work. It is a good example of how I work: understand a risky legacy
+system, build a practical upgrade path, lead the team through it, and leave the
+production environment more stable and maintainable.
+
 ## Selected work
 
 ### [Cornerstone Payroll](https://github.com/Shimizu-Technology/cornerstone-payroll)
