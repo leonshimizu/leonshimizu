@@ -11,8 +11,6 @@ infrastructure needed to run products in production.
 
 ## What I'm doing
 
-- Working at **Bank of Guam** across enterprise applications and Salesforce
-  Financial Services Cloud
 - Building and maintaining products through
   [Shimizu Technology](https://shimizu-technology.com)
 - Growing Guam's developer community through
